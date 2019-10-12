@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="244px" viewBox="0 0 244 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Final Image Only - Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="98" cy="98" r="98"></circle>
+        <circle id="path-3" cx="98" cy="98" r="98"></circle>
+    </defs>
+    <g id="Final-Image-Only---Dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(24.000000, 24.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <circle stroke="#37204A" stroke-width="3" cx="98" cy="98" r="96.5"></circle>
+                <g id="Microphone" mask="url(#mask-2)">
+                    <g transform="translate(69.000000, 79.000000)" id="Group-2">
+                        <g>
+                            <path d="M25.5,60.2727273 C27.1568542,60.2727273 28.5,58.9295815 28.5,57.2727273 L28.5,57.2727273 L28.5,55.4727273 C28.5,53.815873 27.1568542,52.4727273 25.5,52.4727273 L25.5,52.4727273 L0,52.4727273 L0,43.9636364 L25.5,43.9636364 C27.0976809,43.9636364 28.4036609,42.7147164 28.4949073,41.1399092 L28.5,40.9636364 L28.5,39.1636364 C28.5,37.5659555 27.25108,36.2599755 25.6762728,36.1687291 L25.5,36.1636364 L0,36.1636364 L0,27.5836364 L25.5,27.5836364 C27.0976809,27.5836364 28.4036609,26.3347164 28.4949073,24.7599092 L28.5,24.5836364 L28.5,22.7836364 C28.5,21.1859555 27.25108,19.8799755 25.6762728,19.7887291 L25.5,19.7836364 L0,19.7836364 L0,13.0642292 C0,5.84905467 5.79994756,-5.68434189e-14 12.9545455,-5.68434189e-14 L44.0454545,-5.68434189e-14 C51.2000524,-5.68434189e-14 57,5.84905467 57,13.0642292 L57,67.0630435 C57,74.2782181 51.2000524,80.1272727 44.0454545,80.1272727 L12.9545455,80.1272727 C5.79994756,80.1272727 0,74.2782181 0,67.0630435 L0,60.2727273 Z" id="Combined-Shape" fill="#37204A"></path>
+                            <path d="M39.5198949,76.5818182 L48.2760821,110.759083 C48.9614218,113.43411 47.3484615,116.158225 44.6734343,116.843565 C44.2679733,116.947444 43.8510732,117 43.4325168,117 L13.7361152,117 C10.9746915,117 8.73611521,114.761424 8.73611521,112 C8.73611521,111.539684 8.79968099,111.081573 8.9250114,110.638648 L18.5617488,76.5818182 L18.5617488,76.5818182" id="Path" fill="#37204A"></path>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#37204A" stroke-width="3" mask="url(#mask-2)" cx="98" cy="98" r="96.5"></circle>
+                <circle id="Oval" stroke="#37204A" stroke-width="4" fill="#FFFFFF" mask="url(#mask-2)" cx="207" cy="-11" r="110"></circle>
+                <circle id="Oval" stroke="#37204A" stroke-width="4" fill="#FFFFFF" mask="url(#mask-2)" cx="228" cy="-31" r="110"></circle>
+                <circle id="Oval" stroke="#37204A" stroke-width="4" fill="#FFFFFF" mask="url(#mask-2)" cx="-11" cy="-11" r="110"></circle>
+                <circle id="Oval" stroke="#37204A" stroke-width="4" fill="#FFFFFF" mask="url(#mask-2)" cx="-32" cy="-31" r="110"></circle>
+                <path d="M178.5,96.5 L178.5,152.5" id="Line-7" stroke="#37204A" stroke-width="4" stroke-linecap="square" mask="url(#mask-2)"></path>
+                <path d="M17.5,96.5 L17.5,152.5" id="Line-7" stroke="#37204A" stroke-width="4" stroke-linecap="square" mask="url(#mask-2)"></path>
+                <path d="M162.5,91.5 L162.5,167.163086" id="Line-7" stroke="#37204A" stroke-width="4" stroke-linecap="square" mask="url(#mask-2)"></path>
+                <path d="M33.5,91.5 L33.5,167.163086" id="Line-7" stroke="#37204A" stroke-width="4" stroke-linecap="square" mask="url(#mask-2)"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <circle stroke="#37204A" stroke-width="4" cx="98" cy="98" r="96"></circle>
+            </g>
+            <path d="M64,165 C64,158.372583 69.372583,153 76,153" id="Path" stroke="#37204A" stroke-width="4" transform="translate(70.000000, 159.000000) scale(1, -1) translate(-70.000000, -159.000000) "></path>
+            <path d="M119,165 C119,158.372583 124.372583,153 131,153" id="Path" stroke="#37204A" stroke-width="4" transform="translate(125.000000, 159.000000) scale(-1, -1) translate(-125.000000, -159.000000) "></path>
+            <path d="M64,86 C64,79.372583 69.372583,74 76,74" id="Path" stroke="#37204A" stroke-width="4"></path>
+            <path d="M119,86 C119,79.372583 124.372583,74 131,74" id="Path" stroke="#37204A" stroke-width="4" transform="translate(125.000000, 80.000000) scale(-1, 1) translate(-125.000000, -80.000000) "></path>
+        </g>
+    </g>
+</svg>
