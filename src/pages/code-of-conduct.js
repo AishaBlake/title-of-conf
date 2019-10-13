@@ -37,7 +37,7 @@ const CodeOfConduct = () => (
         <p>If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Conference staff can be identified by their staff badges. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.</p>
         <p>You can make a report either personally or anonymously.</p>
         <h2>Anonymous Report</h2>
-        <p>You can make an anonymous report here [Wufoo form or similar that DOES NOT require an email address to submit.</p>
+        {/* <p>You can make an anonymous report here [Wufoo form or similar that DOES NOT require an email address to submit.</p> */}
         <p>We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.</p>
         <h2>Personal Report</h2>
         <p>You can make a personal report by:
