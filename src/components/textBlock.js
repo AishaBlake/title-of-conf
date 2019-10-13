@@ -1,10 +1,24 @@
 import React from 'react';
+import styled from "styled-components"
+
+const Container = styled.section`
+    background-color: ${props => props.bgColor ? props.bgColor : "white"};
+    display: flex;
+    flex-direction: column;
+    padding: 5% 10%;
+
+    @media (min-width: 700px) {
+        flex-flow: row wrap;
+        justify-content: space-between;
+        > * {
+            width: 50%;
+        }
+    }
+`;
 
 const TextBlock = ({bgColor, title, subtitle, children}) => (
-    <section style={{backgroundColor: bgColor, display: `flex`, flexFlow: `row wrap`, justifyContent: `space-between`, padding: `5% 10%`}}>
-        <div style={{
-            width: `50%`
-        }}>
+    <Container bgColor={bgColor}>
+        <div>
             <h2 style={{
                 fontWeight: `400`,
                 textTransform: `uppercase`,
@@ -17,10 +31,9 @@ const TextBlock = ({bgColor, title, subtitle, children}) => (
         </div>
         <p style={{
             lineHeight: `1.8rem`,
-            marginBottom: `0`,
-            width: `50%`
+            marginBottom: `0`
         }}>{children}</p>
-    </section>
+    </Container>
 );
 
 export default TextBlock;

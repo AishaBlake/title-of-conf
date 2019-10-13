@@ -1,6 +1,7 @@
 import React from 'react';
+import styled from 'styled-components';
 import { graphql, useStaticQuery } from 'gatsby';
-import Img from "gatsby-image"
+import Img from "gatsby-image";
 import Logotype from './logotype';
 
 const Hero = () => {
@@ -16,15 +17,33 @@ const Hero = () => {
         }
     `);
 
+    const Container = styled.section`
+        background-color: #E7ECEF;
+        display: flex;
+        flex-direction: column;
+        padding: 5% 10%;
+        text-align: center;
+
+        @media (min-width: 530px) {
+            flex-flow: row wrap;
+            justify-content: space-between;
+            > * {
+                align-content: center;
+                width: 50%;
+            }
+        }
+    `;
+
+    const InfoContainer = styled.div`
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5%;
+    `;
+
     return (
-        <section style={{
-            backgroundColor: `#E7ECEF`,
-            display: `flex`,
-            padding: `5% 10%`
-        }}>
-            <div style={{
-                width: `50%`
-            }}>
+        <Container>
+            <InfoContainer>
                 <Logotype />
                 <p>Spring 2020 | Detroit, MI</p>
                 <a 
@@ -39,13 +58,9 @@ const Hero = () => {
                     }}>
                     Subscribe for Updates
                 </a>
-            </div>
-            <div style={{
-                width: `50%`
-            }}>
-                <Img fluid={logo.childImageSharp.fluid} />
-            </div>
-        </section>
+            </InfoContainer>
+            <Img fluid={logo.childImageSharp.fluid} />
+        </Container>
     )
 };
 

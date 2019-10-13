@@ -34,7 +34,7 @@ const Footer = () => {
             color: `#fff`,
             fill: `#fff`,
             fontFamily: `Righteous`,
-            fontSize: `2rem`,
+            fontSize: `1.8rem`,
             margin: `1rem auto 0`,
             maxWidth: 960,
             textAlign: `center`
