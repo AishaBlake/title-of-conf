@@ -19,9 +19,9 @@ const Video = ({title, src}) => (
             width="100vw"
             height="56.25vw"
             src={src}
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
+            allowFullScreen>
         </iframe>
     </div>
 );

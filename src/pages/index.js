@@ -2,7 +2,6 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Link } from "gatsby"
 import Hero from "../components/hero"
 
 const IndexPage = () => (
@@ -23,7 +22,7 @@ const IndexPage = () => (
           textAlign: `center`
         }}>A joyful new musical conference showcasing the brilliant talent thriving in the tech community.</p>
       <a 
-        to="https://www.patreon.com/join/titleofconf?"
+        href="https://www.patreon.com/join/titleofconf?"
         style={{
           border: `3px solid #FEB85A`,
           color: `#7A335F`,

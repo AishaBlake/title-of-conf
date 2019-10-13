@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TextBlock = ({bgColor, title, subtitle, children}) => (
-    <section style={{backgroundColor: bgColor, display: `flex`, justifyContent: `space-between`, padding: `5% 10%`}}>
+    <section style={{backgroundColor: bgColor, display: `flex`, flexFlow: `row wrap`, justifyContent: `space-between`, padding: `5% 10%`}}>
         <div style={{
             width: `50%`
         }}>
