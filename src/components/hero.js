@@ -28,7 +28,7 @@ const Hero = () => {
                 <Logotype />
                 <p>Spring 2020 | Detroit, MI</p>
                 <Link 
-                    to="https://titleofconf.us4.list-manage.com/subscribe?u=546218e6c599e2caa7de3c359&id=bc02d38623"
+                    href="https://titleofconf.us4.list-manage.com/subscribe?u=546218e6c599e2caa7de3c359&id=bc02d38623"
                     style={{
                     border: `3px solid #FEB85A`,
                     color: `#7A335F`,
