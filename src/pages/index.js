@@ -22,7 +22,7 @@ const IndexPage = () => (
           maxWidth: `600px`,
           textAlign: `center`
         }}>A joyful new musical conference showcasing the brilliant talent thriving in the tech community.</p>
-      <Link 
+      <a 
         to="https://www.patreon.com/join/titleofconf?"
         style={{
           border: `3px solid #FEB85A`,
@@ -33,7 +33,7 @@ const IndexPage = () => (
           textDecoration: `none`,
         }}>
           Become a Patron
-      </Link>
+      </a>
     </section>
   </Layout>
 )
