@@ -337,6 +337,7 @@ hgroup {
 }
 ul {
   margin: 0;
+  margin-bottom: 1.45rem;
   padding: 0;
   list-style-position: outside;
   list-style-image: none;

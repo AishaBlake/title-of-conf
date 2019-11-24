@@ -27,32 +27,34 @@ const CodeOfConduct = () => (
         <p>Those involved with &lt;title of conf&gt; are expected to comply with both the letter and the spirit of this Code of Conduct, and are expected to contribute to the creation and maintenance of a harassment-free space.</p>
 
         <p>
-            Harassment includes, but is not limited to:
-            <ul>
-              <li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.</li>
-              <li>Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, technology, level of experience, career, career stage, and employment.</li>
-              <li>Deliberate misgendering or use of ‘dead’ or rejected names.</li>
-              <li>Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.</li>
-              <li>Physical contact and simulated physical contact (eg, textual descriptions like “<em>hug</em>” or “<em>backrub</em>”) without consent or after a request to stop.</li>
-              <li>Violence or threats of violence.</li>
-              <li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.</li>
-              <li>Stalking or following.</li>
-              <li>Harassing photography or recording, including logging online activity for harassment purposes.</li>
-              <li>Sustained disruption of discussion.</li>
-              <li>Unwelcome sexual attention.</li>
-              <li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others</li>
-              <li>Continued one-on-one communication after requests to cease.</li>
-              <li>Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.</li>
-              <li>Publication of non-harassing private communication.</li>
-            </ul>
-            <p>Danger is not the same as discomfort. &lt;title of conf&gt; prioritizes marginalized people’s safety over privileged people’s comfort. &lt;title of conf&gt; reserves the right not to act on complaints regarding:</p>
-            <ul>
-              <li>‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’</li>
-              <li>Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”</li>
-              <li>Communicating in a ‘tone’ you don’t find congenial</li>
-              <li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions</li>
-            </ul>
+          Harassment includes, but is not limited to:
         </p>
+        <ul>
+          <li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.</li>
+          <li>Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, technology, level of experience, career, career stage, and employment.</li>
+          <li>Deliberate misgendering or use of ‘dead’ or rejected names.</li>
+          <li>Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.</li>
+          <li>Physical contact and simulated physical contact (eg, textual descriptions like “<em>hug</em>” or “<em>backrub</em>”) without consent or after a request to stop.</li>
+          <li>Violence or threats of violence.</li>
+          <li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.</li>
+          <li>Stalking or following.</li>
+          <li>Harassing photography or recording, including logging online activity for harassment purposes.</li>
+          <li>Sustained disruption of discussion.</li>
+          <li>Unwelcome sexual attention.</li>
+          <li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others</li>
+          <li>Continued one-on-one communication after requests to cease.</li>
+          <li>Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.</li>
+          <li>Publication of non-harassing private communication.</li>
+        </ul>
+
+        <p>Danger is not the same as discomfort. &lt;title of conf&gt; prioritizes marginalized people’s safety over privileged people’s comfort. &lt;title of conf&gt; reserves the right not to act on complaints regarding:</p>
+        <ul>
+          <li>‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’</li>
+          <li>Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”</li>
+          <li>Communicating in a ‘tone’ you don’t find congenial</li>
+          <li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions</li>
+        </ul>
+
         <h2>What if someone breaks the Code of Conduct?</h2>
         <p>
           If you are being harassed, or if you notice that someone else is being harassed, or if you have any other concerns, please contact the &lt;title of conf&gt; organizers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can. If a participant asks you to cease a harassing behavior, do so immediately and respectfully.
@@ -63,7 +65,7 @@ const CodeOfConduct = () => (
 
         <h2>How do I report violations?</h2>
         <p>
-          &lt;title of conf&gt; organizers are available via email at [report@titleofconf.org](mailto:report@titleofconf.org). During the conference, we will be wearing organizer t-shirts, which we'll call attention to during our opening remarks and in pre-conference communications. We will respond as quickly as we can.
+          &lt;title of conf&gt; organizers are available via email at <a href="mailto:report@titleofconf.org">report@titleofconf.org</a>. During the conference, we will be wearing organizer t-shirts, which we'll call attention to during our opening remarks and in pre-conference communications. We will respond as quickly as we can.
         </p>
         <p>
           When you report a violation of the Code of Conduct, we pledge to ensure your privacy during the report, we pledge to keep both the reporters’ and the victims’ information confidential (unless you explicitly agree otherwise). We pledge, if appropriate, to help you escalate the report to the applicable authorities, such as venue management, law enforcement, etc.
