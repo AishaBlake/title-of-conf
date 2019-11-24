@@ -45,7 +45,7 @@ const Hero = () => {
         <Container>
             <InfoContainer>
                 <Logotype />
-                <p>Spring 2020 | Detroit, MI</p>
+                <p>May 7, 2020 | Detroit, MI</p>
                 <a 
                     href="https://titleofconf.us4.list-manage.com/subscribe?u=546218e6c599e2caa7de3c359&id=bc02d38623"
                     style={{
