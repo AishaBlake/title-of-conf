@@ -26,6 +26,7 @@ const Hero = () => {
 
         @media (min-width: 530px) {
             flex-flow: row wrap;
+            align-items: center;
             justify-content: space-between;
             > * {
                 align-content: center;
