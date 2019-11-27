@@ -9,6 +9,7 @@ const Container = styled.section`
 const FlexContainer = styled.div`
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-around;
 `;
 
 const TextBlock = ({bgColor, title, subtitle, children}) => (

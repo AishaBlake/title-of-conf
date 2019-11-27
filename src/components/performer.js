@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 const Performer = ({name, company, headshotURL}) => {
     const PerformerWrapper = styled.section`
-        max-width: 25%;
+        flex-basis: 192px;
         padding: 2%;
     `;
 
