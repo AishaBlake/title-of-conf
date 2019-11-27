@@ -25,7 +25,7 @@ const Hero = () => {
         text-align: center;
 
         @media (min-width: 530px) {
-            flex-flow: row wrap;
+            flex-direction: row;
             align-items: center;
             justify-content: space-between;
             > * {
@@ -60,7 +60,7 @@ const Hero = () => {
                     Subscribe for Updates
                 </a>
             </InfoContainer>
-            <Img fluid={logo.childImageSharp.fluid} />
+            <Img fluid={logo.childImageSharp.fluid} style={{maxWidth: `300px`}} />
         </Container>
     )
 };
