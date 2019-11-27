@@ -3,6 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Hero from "../components/hero"
+import TextBlock from "../components/textBlock"
 
 const IndexPage = () => (
   <Layout>
@@ -34,6 +35,12 @@ const IndexPage = () => (
           Become a Patron
       </a>
     </section>
+    <TextBlock bgColor="#E7ECEF" title="What to expect" subtitle="Learning through performance arts">
+      We want to explore some delightfully different ways to capture the day-to-day experience of creating software. Our talented performers will transport you through their musical and theatrical pieces. We'll end the day with an awesome karaoke party!
+    </TextBlock>
+    <TextBlock title="Location &amp; Venue" subtitle="Detroit, MI">
+      &lt;title of conf&gt; will take place at the gorgeous Garden Theater in Midtown Detroit. This central location brings us close to a number of excellent restuarants, museums, and historical sites.
+    </TextBlock>
   </Layout>
 )
 
