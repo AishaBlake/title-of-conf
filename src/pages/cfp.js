@@ -45,7 +45,7 @@ const Sponsor = () => (
       <li>original music (for example, <a href="https://www.youtube.com/watch?v=ZGeWNR8CWnA">Microsoft the Musical</a>)</li>
       <li>original short plays (for example, <a href="https://www.youtube.com/watch?v=9qYR0NqsDcA&feature=youtu.be">Code Review, Forwards and Back</a>)</li>
     </ul>
-    <p>If you have an idea for a performance in a different format, please email cfp@titleofconf.org!</p>
+    <p>If you have an idea for a performance in a different format, please <a href="mailto:cfp@titleofconf.org">email cfp@titleofconf.org</a>!</p>
     </Block>
     <Block title="The selection process">
       <p><strong>If you want to write something (and maybe perform it):</strong></p>
@@ -65,7 +65,7 @@ const Sponsor = () => (
         <li>Briefly tell us your name and your topic.</li>
         <li>The video should be of you doing the thing you're applying to do - whether that be singing, acting, etc. It doesn't have to be exactly what you'll perform at &lt;title of conf&gt;, but it should give us a good idea of what we're going to experience.</li>
         <li>If you're submitting multiple pieces as a writer and would also like to perform, you only need to submit one audition video.</li>
-        <li>If you have any questions at all, please reach out via <a href="https://discord.gg/832rT7q">Discord</a>, <a href="https://twitter.com/TitleOfConf">Twitter</a>, or email.</li>
+        <li>If you have any questions at all, please reach out via <a href="https://discord.gg/832rT7q">Discord</a>, <a href="https://twitter.com/TitleOfConf">Twitter</a>, or <a href="mailto:cfp@titleofconf.org">email</a>.</li>
       </ul>
       <p><strong>A little about how we decide:</strong></p>
       <ul>
@@ -81,7 +81,7 @@ const Sponsor = () => (
     <Block bgColor="#E7ECEF" title="Benefits">
       <ul>
         <li>&lt;title of conf&gt; ticket (of course)</li>
-        <li>Invitation to Cast Dinner on Wednesday, May 6th</li>
+        <li>Invitation to Cast Dinner on Wednesday, May 6th, 2020</li>
         <li>20% discount on purchase of one <a href="https://selfconference.org/">self.conference</a> ticket</li>
       </ul>
     </Block>
