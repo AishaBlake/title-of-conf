@@ -50,21 +50,22 @@ const Sponsor = () => (
     <Block title="The selection process">
       <p><strong>If you want to write something (and maybe perform it):</strong></p>
       <ul>
-        <li>Fill out the <a href="https://forms.gle/rKVrKdUFhFBdtrpz9">"Apply as a writer"</a> form.</li>
+        <li>Fill out the <a href="https://forms.gle/rKVrKdUFhFBdtrpz9">&lt;title of conf&gt; Writer CFP</a> form.</li>
         <li>You can submit a maximum of five different pieces via the form.</li>
         <li>If you are submitting multiple pieces, and you have a strong preference for one piece over another, please indicate your preferences in the "Notes" section of the form.</li>
       </ul>
       <p><strong>If you ONLY want to perform (no writing involved):</strong></p>
       <ul>
-        <li>Fill out the <a href="https://forms.gle/vV6egkJrsdTSxaps6">"Apply as a performer"</a> form.</li>
+        <li>Fill out the <a href="https://forms.gle/vV6egkJrsdTSxaps6">&lt;title of conf&gt; Performer CFP</a> form.</li>
       </ul>
       <p><strong>If you are interested in performing (regardless of whether or not you write it), you'll need to make an audition video!</strong></p>
       <ul>
         <li>The video should be 1-2 minutes in length.</li>
-        <li>You should publish your video on a platofrm we can see without a password (such as an unlisted YouTube video).</li>
+        <li>Publish your video on a platform we can see without a password (such as an unlisted YouTube video).</li>
         <li>Briefly tell us your name and your topic.</li>
-        <li>The video should be of you doing the thing you're applying to do - whether that be singing, acting, etc. It doesn't have to be exactly what you'll perform at ToC, but it should give us a good idea of what we're going to experience.</li>
-        <li>If you are submitting multiple pieces, only submit one audition video.</li>
+        <li>The video should be of you doing the thing you're applying to do - whether that be singing, acting, etc. It doesn't have to be exactly what you'll perform at &lt;title of conf&gt;, but it should give us a good idea of what we're going to experience.</li>
+        <li>If you're submitting multiple pieces as a writer and would also like to perform, you only need to submit one audition video.</li>
+        <li>If you have any questions at all, please reach out via <a href="https://discord.gg/832rT7q">Discord</a>, <a href="https://twitter.com/TitleOfConf">Twitter</a>, or email.</li>
       </ul>
       <p><strong>A little about how we decide:</strong></p>
       <ul>
@@ -90,7 +91,7 @@ const Sponsor = () => (
         <li>Saturday, December 7 @ 2pm Eastern</li>
         <li>Saturday, December 14 @ 2pm Eastern</li>
       </ul>
-      <p>To gain access to these office hours and the rest of the &lt;title of conf&gt; community, you'll need to <a href="https://discord.gg/832rT7q">join the Discord server</a>. We are also available via email at cfp@titleofconf.org and our <a href="https://twitter.com/TitleOfConf">Twitter DMs are open</a>!</p>
+      <p>To gain access to these office hours and the rest of the &lt;title of conf&gt; community, you'll need to <a href="https://discord.gg/832rT7q">join the Discord server</a>. We are also available via email at <a href="mailto:cfp@titleofconf.org">cfp@titleofconf.org</a> and our <a href="https://twitter.com/TitleOfConf">Twitter DMs are open</a>!</p>
     </Block>
 
   </Layout>
