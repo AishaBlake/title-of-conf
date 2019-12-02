@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 const CodeOfConduct = () => (
   <Layout>
-    <SEO title="Sponsor" />
+    <SEO title="Code of conduct" />
     <section style={{
       padding: `5% 10%`
     }}>

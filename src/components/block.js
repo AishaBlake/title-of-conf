@@ -6,13 +6,7 @@ const Container = styled.section`
     padding: 5% 10%;
 `;
 
-const FlexContainer = styled.div`
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-`;
-
-const TextBlock = ({bgColor, title, subtitle, children}) => (
+const Block = ({bgColor, title, subtitle, children}) => (
     <Container bgColor={bgColor}>
         <h2 style={{
             fontWeight: `400`,
@@ -23,8 +17,8 @@ const TextBlock = ({bgColor, title, subtitle, children}) => (
             fontSize: `2rem`,
             fontWeight: `600`
         }}>{subtitle}</p>
-        <FlexContainer>{children}</FlexContainer>
+        {children}
     </Container>
 );
 
-export default TextBlock;
+export default Block;

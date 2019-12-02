@@ -11,6 +11,10 @@ module.exports = {
       {
         name: 'Sponsor',
         link: '/sponsor'
+      },
+      {
+        name: 'CFP',
+        link: '/cfp'
       }
     ]
   },
