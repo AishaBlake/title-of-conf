@@ -65,7 +65,7 @@ const CodeOfConduct = () => (
 
         <h2>How do I report violations?</h2>
         <p>
-          &lt;title of conf&gt; organizers are available via email at <a href="mailto:report@titleofconf.org">report@titleofconf.org</a>. During the conference, we will be wearing organizer t-shirts, which we'll call attention to during our opening remarks and in pre-conference communications. We will respond as quickly as we can.
+          &lt;title of conf&gt; organizers are available via email at <a href="mailto:report@titleofconf.org">report@titleofconf.org</a>, via Twitter DM, and in person. You are also welcome to make an anonymous [CoC Violation Report](https://forms.gle/EJ6DEgY6FCDXtwPK9). During the conference, we will be wearing organizer t-shirts, which we'll call attention to during our opening remarks and in pre-conference communications. We will also have at least one volunteer who is not an organizer available to take reports at all times. We will respond as quickly as we can.
         </p>
         <p>
           When you report a violation of the Code of Conduct, we pledge to ensure your privacy during the report, we pledge to keep both the reporters’ and the victims’ information confidential (unless you explicitly agree otherwise). We pledge, if appropriate, to help you escalate the report to the applicable authorities, such as venue management, law enforcement, etc.
