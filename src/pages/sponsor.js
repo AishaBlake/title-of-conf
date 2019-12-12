@@ -12,6 +12,7 @@ const Sponsor = () => (
     </TextBlock>
     <TextBlock title="Patrons">
       <ul>
+        <li>Sara Chipps</li>
         <li>David Lu</li>
         <li>Jay Martindell</li>
         <li>István "Flaki" Szmozsánszky</li>
