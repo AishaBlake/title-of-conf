@@ -25,6 +25,19 @@ const IndexPage = () => (
           textAlign: `center`
         }}>A joyful new musical conference showcasing the brilliant talent thriving in the tech community.</p>
       <a 
+        href="https://ti.to/title-of-conf/2020"
+        style={{
+          border: `3px solid #FEB85A`,
+          backgroundColor: `#FEB85A`,
+          color: `#7A335F`,
+          fontSize: `.8rem`,
+          fontWeight: `bold`,
+          padding: `4px 8px`,
+          textDecoration: `none`,
+        }}>
+          Get Tickets
+      </a>
+      <a 
         href="https://www.patreon.com/join/titleofconf?"
         style={{
           border: `3px solid #FEB85A`,
