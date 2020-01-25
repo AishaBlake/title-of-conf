@@ -52,6 +52,7 @@ const Sponsor = () => (
       <ul>
         <li>Fill out the <a href="https://forms.gle/rKVrKdUFhFBdtrpz9">&lt;title of conf&gt; Writer CFP</a> form.</li>
         <li>You can submit a maximum of five different pieces via the form.</li>
+        <li>Your piece does NOT need to be finished! We'll ask you to provide documentation, which could include notes or a draft of the piece.</li>
         <li>If you are submitting multiple pieces, and you have a strong preference for one piece over another, please indicate your preferences in the "Notes" section of the form.</li>
       </ul>
       <p><strong>If you ONLY want to perform (no writing involved):</strong></p>
@@ -90,6 +91,7 @@ const Sponsor = () => (
       <ul>
         <li>Saturday, December 7 @ 2pm Eastern</li>
         <li>Saturday, December 14 @ 2pm Eastern</li>
+        <li>Saturday, January 25 @ 3pm Eastern</li>
       </ul>
       <p>To gain access to these office hours and the rest of the &lt;title of conf&gt; community, you'll need to <a href="https://discord.gg/832rT7q">join the Discord server</a>. We are also available via email at <a href="mailto:cfp@titleofconf.org">cfp@titleofconf.org</a> and our <a href="https://twitter.com/TitleOfConf">Twitter DMs are open</a>!</p>
     </Block>
