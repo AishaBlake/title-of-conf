@@ -48,7 +48,7 @@ const Hero = () => {
                 <Logotype />
                 <p>May 7, 2020 | Detroit, MI</p>
                 <a 
-                    href="https://titleofconf.us4.list-manage.com/subscribe?u=546218e6c599e2caa7de3c359&id=bc02d38623"
+                    href="https://ti.to/title-of-conf/2020"
                     style={{
                     border: `3px solid #FEB85A`,
                     color: `#7A335F`,
@@ -57,7 +57,7 @@ const Hero = () => {
                     padding: `4px 8px`,
                     textDecoration: `none`,
                     }}>
-                    Subscribe for Updates
+                    Buy Tickets
                 </a>
             </InfoContainer>
             <Img fluid={logo.childImageSharp.fluid} style={{maxWidth: `300px`}} />

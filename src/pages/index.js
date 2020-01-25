@@ -25,7 +25,7 @@ const IndexPage = () => (
           textAlign: `center`
         }}>A joyful new musical conference showcasing the brilliant talent thriving in the tech community.</p>
       <a 
-        href="https://ti.to/title-of-conf/2020"
+        href="https://www.patreon.com/join/titleofconf?"
         style={{
           border: `3px solid #FEB85A`,
           backgroundColor: `#FEB85A`,
@@ -35,10 +35,10 @@ const IndexPage = () => (
           padding: `4px 8px`,
           textDecoration: `none`,
         }}>
-          Get Tickets
+          Become a Patron
       </a>
       <a 
-        href="https://www.patreon.com/join/titleofconf?"
+        href="https://titleofconf.us4.list-manage.com/subscribe?u=546218e6c599e2caa7de3c359&id=bc02d38623"
         style={{
           border: `3px solid #FEB85A`,
           color: `#7A335F`,
@@ -47,7 +47,7 @@ const IndexPage = () => (
           padding: `4px 8px`,
           textDecoration: `none`,
         }}>
-          Become a Patron
+          Subscribe
       </a>
     </section>
     <TextBlock bgColor="#E7ECEF" title="What to expect" subtitle="Learning through performance arts">
