@@ -10,7 +10,7 @@ const Sponsor = () => (
   <Layout>
     <SEO title="Call for performers" />
     <TextBlock bgColor="#E7ECEF" title="Call for Performers" subtitle="Join the cast">
-      <p>&lt;title of conf&gt;'s Call for Performers (CFP) is currently open! </p>
+      <p>&lt;title of conf&gt;'s Call for Performers (CFP) is currently closed! </p>
     </TextBlock>
     <section style={{
       padding: `5% 10%`,
