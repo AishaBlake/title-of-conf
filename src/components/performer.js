@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from "styled-components"
 
-const Performer = ({name, company, headshotURL}) => {
+const Performer = ({name, company, headshotURL, alt}) => {
     const PerformerWrapper = styled.section`
-        flex-basis: 192px;
+        flex-basis: 200px;
         padding: 2%;
     `;
 
@@ -25,9 +25,9 @@ const Performer = ({name, company, headshotURL}) => {
 
     return (
         <PerformerWrapper>
-            <PerformerHeadshot src={headshotURL} />
+            <PerformerHeadshot src={headshotURL} alt={alt || name} />
             <PerformerName>{name}</PerformerName>
-            <PerformerCompany>{company}</PerformerCompany>
+            { company && <PerformerCompany>{company}</PerformerCompany> }
         </PerformerWrapper>
     );
 };
