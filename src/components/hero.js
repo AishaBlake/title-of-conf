@@ -7,7 +7,7 @@ import Logotype from './logotype';
 const Hero = () => {
     const { logo } = useStaticQuery(graphql`
         query {
-            logo: file(relativePath: { eq: "toc-symbol-dark.png" }) {
+            logo: file(relativePath: { eq: "images/toc-symbol-dark.png" }) {
                 childImageSharp {
                     fluid {
                         ...GatsbyImageSharpFluid

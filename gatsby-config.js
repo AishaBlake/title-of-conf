@@ -13,18 +13,18 @@ module.exports = {
         link: '/sponsor'
       },
       {
-        name: 'CFP',
-        link: '/cfp'
+        name: 'Cast',
+        link: '/cast-and-crew'
       }
     ]
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/src/data`,
       },
     },
     `gatsby-plugin-styled-components`,
@@ -39,7 +39,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/toc-symbol-dark.png`, // This path is relative to the root of the site.
+        icon: `src/data/images/toc-symbol-dark.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

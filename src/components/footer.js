@@ -5,21 +5,21 @@ import Img from "gatsby-image"
 const Footer = () => {
     const { patreon, twitter, youtube } = useStaticQuery(graphql`
         query {
-            patreon: file(relativePath: { eq: "patreon.png" }) {
+            patreon: file(relativePath: { eq: "images/patreon.png" }) {
                 childImageSharp {
                     fixed(width: 24) {
                         ...GatsbyImageSharpFixed
                     }
                 }
             }
-            twitter: file(relativePath: { eq: "twitter.png" }) {
+            twitter: file(relativePath: { eq: "images/twitter.png" }) {
                 childImageSharp {
                     fixed(width: 24) {
                         ...GatsbyImageSharpFixed
                     }
                 }
             }
-            youtube: file(relativePath: { eq: "youtube.png" }) {
+            youtube: file(relativePath: { eq: "images/youtube.png" }) {
                 childImageSharp {
                     fixed(width: 24) {
                         ...GatsbyImageSharpFixed

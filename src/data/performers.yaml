@@ -1,0 +1,44 @@
+- name: Anjana Vakil
+  company: Mapbox
+  headshot: images/anjana.jpg
+  twitter: AnjanaVakil
+- name: Brian Gorman
+  headshot: images/brian.jpeg
+  twitter: blgorman
+- name: Cassidy Williams
+  company: React Training
+  headshot: images/cassidy.jpg
+  twitter: cassidoo
+- name: Chloe Condon
+  company: Microsoft
+  headshot: images/chloe.jpg
+  twitter: ChloeCondon
+- name: Christie Chirinos
+  headshot: images/christie.jpg
+  twitter: xtiechirinos
+- name: Coraline Ada Ehmke
+  headshot: images/coraline.jpg
+  twitter: CoralineAda
+- name: David Neal
+  headshot: images/david.png
+  twitter: reverentgeek
+- name: Diana Rodriguez
+  headshot: images/diana.jpg
+  twitter: cotufa82
+- name: Jeremy Lindblom
+  headshot: images/jeremy.jpeg
+  twitter: jeremeamia
+- name: Laura Webb
+  company: GitHub
+  headshot: images/laura.jpg
+  twitter: LRW3bb
+- name: Natalia Margolis
+  company: Mapbox
+  headshot: images/natalia.jpg
+  twitter: nsmargolis
+- name: Sarah Nguyen
+  headshot: images/sarah.jpg
+  twitter: snewyuen
+- name: Theresa Stewart
+  headshot: images/theresa.jpeg
+  twitter: atheresastewart
