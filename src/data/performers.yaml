@@ -1,44 +1,79 @@
+- name: Aisha Blake
+  company: Gatsby
+  headshot: images/aisha.jpg
+  role: organizer
+  twitter: AishaBlake
+  bio: Aisha Blake (she/her) is a Senior Software Engineer at Gatsby. She supports her local community by co-organizing self.conference and Detroit Speakers in Tech. A theatre kid turned tech community leader, she approaches speaking and teaching as a way to give others the tools to shine as brightly as they can. In her spare time, she sings karaoke and pets dogs.
 - name: Anjana Vakil
   company: Mapbox
   headshot: images/anjana.jpg
+  role: performer
   twitter: AnjanaVakil
 - name: Brian Gorman
   headshot: images/brian.jpeg
+  role: performer
   twitter: blgorman
 - name: Cassidy Williams
   company: React Training
   headshot: images/cassidy.jpg
+  role: performer
   twitter: cassidoo
 - name: Chloe Condon
   company: Microsoft
   headshot: images/chloe.jpg
+  role: performer
   twitter: ChloeCondon
+- name: Chrissy Lee
+  company: Detroit Labs
+  headshot: images/chrissy.jpg
+  role: organizer
+  twitter: christinaemlee
+  bio: By day, Chrissy (she/her) works as a Delivery Lead at Detroit Labs, managing some pretty cool software projects! When Chrissy isn’t getting her project management on, she’s teaching coding fundamentals to groups around the city, trying to read multiple books simultaneously, scoping out eateries, or just simply binge-watching things from the comfort of her couch. Chrissy also considers herself to be a Senior-level ’Potterhead’ and a Motown enthusiast so feel free to talk to her about anything Harry Potter or Stevie Wonder related!
 - name: Christie Chirinos
   headshot: images/christie.jpg
+  role: performer
   twitter: xtiechirinos
 - name: Coraline Ada Ehmke
   headshot: images/coraline.jpg
+  role: performer
   twitter: CoralineAda
 - name: David Neal
   headshot: images/david.png
+  role: performer
   twitter: reverentgeek
 - name: Diana Rodriguez
   headshot: images/diana.jpg
+  role: performer
   twitter: cotufa82
+- name: Ginny Schneider
+  headshot: images/ginny.jpg
+  role: organizer
+  twitter: ginnerz06
+  bio: Ginny Schneider (she/her) is pursuing her masters in Library and Information Science at Wayne State University after many years practicing as a designer. Her past interior design and user experience design work led to a deep interest in studying universal access to information. Outside of school, you can find her on a yoga mat or lost in comics surrounded by her fur babes, Luna (cat) and Ruby (dog).
 - name: Jeremy Lindblom
   headshot: images/jeremy.jpeg
+  role: performer
   twitter: jeremeamia
 - name: Laura Webb
   company: GitHub
   headshot: images/laura.jpg
+  role: performer
   twitter: LRW3bb
 - name: Natalia Margolis
   company: Mapbox
   headshot: images/natalia.jpg
+  role: performer
   twitter: nsmargolis
+- name: Novella Chiechi
+  headshot: images/novella.jpg
+  role: organizer
+  twitter: novelladev
+  bio: Novella (she/her) is a Web Bedazzler with experience in VueJS and Drupal. In her spare time she leads Vue Vixens Michigan, organizes tech community events, and watches home reno shows with her greyhound.
 - name: Sarah Nguyen
   headshot: images/sarah.jpg
+  role: performer
   twitter: snewyuen
 - name: Theresa Stewart
   headshot: images/theresa.jpeg
+  role: performer
   twitter: atheresastewart
