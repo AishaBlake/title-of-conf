@@ -54,6 +54,16 @@
   headshot: images/jeremy.jpeg
   role: performer
   twitter: jeremeamia
+- name: Ju Liu
+  headshot: images/ju.jpg
+  role: performer
+  twitter: arkh4m
+  bio: Ju was born in China, moved to Italy as a kid, grew up eating a lot of pasta, and started messing around with computers. He now lives in London and works for NoRedInk. He loves to solve interesting problems and build amazing products. When he’s not doing that, he’s probably rock climbing.
+- name: Kofi Oduro
+  headshot: images/toc-symbol-dark.png
+  role: performer
+  twitter: illestprecha
+  bio: Kofi's artistic practice is an observation of the world around us, that he then puts into artworks for others to relate to or disagree with. Through Videography, Poetry and Creative Coding, he tries to highlight the realms of the human performance and the human mind in different scenarios. These situations can be described as social, internal, or even biological, which we face in our everyday lives. Adding music and visuals often helps to perceive one's own feelings, and to highlight the different subtleties that make us human. With a dose of technology, there is an endless range of progress in the human creative endeavours.
 - name: Laura Webb
   company: GitHub
   headshot: images/laura.jpg
@@ -69,11 +79,26 @@
   role: organizer
   twitter: novelladev
   bio: Novella (she/her) is a Web Bedazzler with experience in VueJS and Drupal. In her spare time she leads Vue Vixens Michigan, organizes tech community events, and watches home reno shows with her greyhound.
+- name: Roxie Maisel
+  headshot: images/roxie.png
+  role: performer
+  twitter: Thefoxiestroxie
+  bio: Roxie Maisel is a writer/performer of original works of musical theatre, songs, standup comedy, sketch comedy, burlesque, improvisation, and comic characters. Her songwriting specialty spans the genres of musical theatre, heavy metal, disco, EDM, techno, pop, theme songs, and country. She has performed at The Duplex, Peoples Improv Theater, Soho Playhouse, Magnet Theater, DROM, The Black Cat LES, and The Tank. Roxie is a classically-trained opera singer and has performed many roles in numerous musicals and operas. She co-wrote, produced, and starred in the original musical, "Exodus 2&#58; The Apocrypha", the journey of biblical mime magicians Flappy and Chappy and their musical exodus from Ancient Egypt. Her current project is writing an album for her inclusive boyband, S2L (Simply Too Lit), and shooting a music video.
 - name: Sarah Nguyen
   headshot: images/sarah.jpg
   role: performer
   twitter: snewyuen
+- name: Stuart Sierra
+  headshot: images/stuart.jpg
+  role: performer
+  twitter: stuartsierra
+  bio: Stuart Sierra could never decide whether to be a performer or a programmer. After earning a degree in theatre from NYU's Tisch School of the Arts, he spent approximately five minutes as a professional actor before fleeing to a graduate degree in computer science. While working as a developer and consultant, he found his way back to the stage as a conference speaker. He has given talks and workshops all over the world about Clojure and functional programming. He recently fulfilled his childhood dreams of public radio by starting a podcast called "No Manifestos."
 - name: Theresa Stewart
   headshot: images/theresa.jpeg
   role: performer
   twitter: atheresastewart
+- name: William Horton
+  headshot: images/william.jpeg
+  role: performer
+  twitter: hortonhearsafoo
+  bio: William Horton has been singing ever since his sister convinced him to join the church choir in third grade. He directed the Harvard-Radcliffe Veritones a cappella group in college, and graduated with a minor in music. Post-college, he has performed with The Workshop a cappella in New York, as well as in several cabaret performances in the city. By day, he is a software engineer on the AI Services team at Compass, a real estate startup in New York City.
