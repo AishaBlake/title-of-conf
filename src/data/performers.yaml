@@ -1,103 +1,135 @@
 - name: Aisha Blake
+  slug: aisha
   company: Gatsby
   headshot: images/aisha.jpg
   role: organizer
   twitter: AishaBlake
-  bio: Aisha Blake (she/her) is a Senior Software Engineer at Gatsby. She supports her local community by co-organizing self.conference and Detroit Speakers in Tech. A theatre kid turned tech community leader, she approaches speaking and teaching as a way to give others the tools to shine as brightly as they can. In her spare time, she sings karaoke and pets dogs.
+  bio: Aisha Blake is a Senior Software Engineer at Gatsby. She supports her local community by co-organizing self.conference and Detroit Speakers in Tech. A theatre kid turned tech community leader, she approaches speaking and teaching as a way to give others the tools to shine as brightly as they can. In her spare time, she sings karaoke and pets dogs.
 - name: Anjana Vakil
+  slug: anjana
   company: Mapbox
   headshot: images/anjana.jpg
   role: performer
   twitter: AnjanaVakil
+  bio: Anjana suffers from a debilitating case of curiosity, which led her from philosophy to English teaching to computational linguistics to software development. As a map rendering engineer at Mapbox, she can usually be found coding in San Francisco; that is, when she's not speaking (or singing!) at events around the world, trying to share the joy of programming and advocate for a more diverse & accessible tech industry. Ask her about the Recurse Center, Outreachy, and Mozilla!
 - name: Brian Gorman
+  slug: brian
   headshot: images/brian.jpeg
   role: performer
   twitter: blgorman
+  bio: "Brian is an experienced .Net developer with MCSA: Web App Certification, MCSD: App Builder, and MCT certifications. Brian holds a masters of science degree in computer information systems, and a bachelor of science degree in computer science. He also has many years of experience instructing college courses online in SQL databases, C#/VB .Net programming, Java programming, and Microsoft Office. Brian has created many online technical training courses that can be found on various platforms like O'Reilly/InfiniteSkills, Udemy, and others. He also runs MajorGuidanceSolutions, a training and consulting company, while working fulltime as a .Net developer. Additionally, Brian is a Christian artist with music available on Spotify, leads worship regularly at a megachurch (where he's also done musical theater), and has performed in many musicals through the years, including lead roles such as Roger (RENT), Albert Peterson (Bye Bye Birdie), Georg Von Trap (Sound of Music), and Sir Dennis Galahad (Spamalot)."
 - name: Cassidy Williams
+  slug: cassidy
   company: React Training
   headshot: images/cassidy.jpg
   role: performer
   twitter: cassidoo
+  bio: "Cassidy is an instructor and developer with React Training. She's worked for CodePen, Amazon, L4 Digital, Clarifai, and Venmo, and she's had the honor of working with various organizations, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 & Under. As an avid speaker, Cassidy has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and the U.S.A. Science and Engineering Festival. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: One can never consent to creep when one feels an impulse to soar. She loves mechanical keyboards and karaoke."
 - name: Chloe Condon
+  slug: chloe
   company: Microsoft
   headshot: images/chloe.jpg
   role: performer
   twitter: ChloeCondon
 - name: Chrissy Lee
+  slug: chrissy
   company: Detroit Labs
   headshot: images/chrissy.jpg
   role: organizer
   twitter: christinaemlee
-  bio: By day, Chrissy (she/her) works as a Delivery Lead at Detroit Labs, managing some pretty cool software projects! When Chrissy isn’t getting her project management on, she’s teaching coding fundamentals to groups around the city, trying to read multiple books simultaneously, scoping out eateries, or just simply binge-watching things from the comfort of her couch. Chrissy also considers herself to be a Senior-level ’Potterhead’ and a Motown enthusiast so feel free to talk to her about anything Harry Potter or Stevie Wonder related!
+  bio: By day, Chrissy works as a Delivery Lead at Detroit Labs, managing some pretty cool software projects! When Chrissy isn’t getting her project management on, she’s teaching coding fundamentals to groups around the city, trying to read multiple books simultaneously, scoping out eateries, or just simply binge-watching things from the comfort of her couch. Chrissy also considers herself to be a Senior-level ’Potterhead’ and a Motown enthusiast so feel free to talk to her about anything Harry Potter or Stevie Wonder related!
 - name: Christie Chirinos
+  slug: christie
   headshot: images/christie.jpg
   role: performer
   twitter: xtiechirinos
+  bio: Christie Chirinos is the Product Lead for Managed WooCommerce Hosting at LiquidWeb.com. With over a decade working on web publishing, including co-founding and later selling Caldera WP, creators of global top form building tool Caldera Forms, Christie really knows what makes website builders and online entrepreneurs tick. She is a frequent speaker and advocate for entrepreneurship, marketing, ecommerce and activism. When not working, you can find her in her home in Washington, DC with her cat Snickers, playing the piano, upside down on an aerial hoop, or spending time with friends and family. 
 - name: Coraline Ada Ehmke
+  slug: coraline
   headshot: images/coraline.jpg
   role: performer
   twitter: CoralineAda
+  bio: Coraline Ada Ehmke is an international speaker, writer, and developer with over 25 years of experience in software engineering. She was recognized for her work on diversity in open source with a Ruby Hero award in 2016. Coraline is the creator of the Contributor Covenant, the most popular open source code of conduct in the world with over 40,000 adoptions. She is a founding panelist on the Greater than Code podcast. Coraline is co-authoring a book on practicing empathy in software development, and writes and records music in her home studio.
 - name: David Neal
+  slug: david
   headshot: images/david.png
   role: performer
   twitter: reverentgeek
+  bio: David is a family man, musician, illustrator, software developer, and Microsoft MVP living in North Georgia. He is currently a Senior Developer Advocate for Okta, runs on a high-octane mixture of caffeine and JavaScript, and is made entirely of bacon.
 - name: Diana Rodriguez
+  slug: diana
   headshot: images/diana.jpg
   role: performer
   twitter: cotufa82
 - name: Ginny Schneider
+  slug: ginny
   headshot: images/ginny.jpg
   role: organizer
   twitter: ginnerz06
-  bio: Ginny Schneider (she/her) is pursuing her masters in Library and Information Science at Wayne State University after many years practicing as a designer. Her past interior design and user experience design work led to a deep interest in studying universal access to information. Outside of school, you can find her on a yoga mat or lost in comics surrounded by her fur babes, Luna (cat) and Ruby (dog).
+  bio: Ginny Schneider is pursuing her masters in Library and Information Science at Wayne State University after many years practicing as a designer. Her past interior design and user experience design work led to a deep interest in studying universal access to information. Outside of school, you can find her on a yoga mat or lost in comics surrounded by her fur babes, Luna (cat) and Ruby (dog).
 - name: Jeremy Lindblom
+  slug: jeremy
   headshot: images/jeremy.jpeg
   role: performer
   twitter: jeremeamia
+  bio: Jeremy is a principal software engineer at McGraw-Hill Education (@MHEducation). In his spare time he acts as an organizer and host of the Arizona PHP User Group (@azPHP), contributes to open source, sings, and makes funny faces. Loves PHP, Golang, and TypeScript. Tenor. Father of 4.
 - name: Ju Liu
+  slug: ju
   headshot: images/ju.jpg
   role: performer
   twitter: arkh4m
   bio: Ju was born in China, moved to Italy as a kid, grew up eating a lot of pasta, and started messing around with computers. He now lives in London and works for NoRedInk. He loves to solve interesting problems and build amazing products. When he’s not doing that, he’s probably rock climbing.
 - name: Kofi Oduro
+  slug: kofi
   headshot: images/toc-symbol-dark.png
   role: performer
   twitter: illestprecha
   bio: Kofi's artistic practice is an observation of the world around us, that he then puts into artworks for others to relate to or disagree with. Through Videography, Poetry and Creative Coding, he tries to highlight the realms of the human performance and the human mind in different scenarios. These situations can be described as social, internal, or even biological, which we face in our everyday lives. Adding music and visuals often helps to perceive one's own feelings, and to highlight the different subtleties that make us human. With a dose of technology, there is an endless range of progress in the human creative endeavours.
 - name: Laura Webb
+  slug: laura
   company: GitHub
   headshot: images/laura.jpg
   role: performer
   twitter: LRW3bb
+  bio: A national speaker with a varied career from art museums to remote work for a large online community. Interested in Linux, security, making things better, and the next Mars mission. 
 - name: Natalia Margolis
+  slug: natalia
   company: Mapbox
   headshot: images/natalia.jpg
   role: performer
   twitter: nsmargolis
 - name: Novella Chiechi
+  slug: novella
   headshot: images/novella.jpg
   role: organizer
   twitter: novelladev
-  bio: Novella (she/her) is a Web Bedazzler with experience in VueJS and Drupal. In her spare time she leads Vue Vixens Michigan, organizes tech community events, and watches home reno shows with her greyhound.
+  bio: Novella is a Web Bedazzler with experience in VueJS and Drupal. In her spare time she leads Vue Vixens Michigan, organizes tech community events, and watches home reno shows with her greyhound.
 - name: Roxie Maisel
+  slug: roxie
   headshot: images/roxie.png
   role: performer
   twitter: Thefoxiestroxie
-  bio: Roxie Maisel is a writer/performer of original works of musical theatre, songs, standup comedy, sketch comedy, burlesque, improvisation, and comic characters. Her songwriting specialty spans the genres of musical theatre, heavy metal, disco, EDM, techno, pop, theme songs, and country. She has performed at The Duplex, Peoples Improv Theater, Soho Playhouse, Magnet Theater, DROM, The Black Cat LES, and The Tank. Roxie is a classically-trained opera singer and has performed many roles in numerous musicals and operas. She co-wrote, produced, and starred in the original musical, "Exodus 2&#58; The Apocrypha", the journey of biblical mime magicians Flappy and Chappy and their musical exodus from Ancient Egypt. Her current project is writing an album for her inclusive boyband, S2L (Simply Too Lit), and shooting a music video.
+  bio: "Roxie Maisel is a writer/performer of original works of musical theatre, songs, standup comedy, sketch comedy, burlesque, improvisation, and comic characters. Her songwriting specialty spans the genres of musical theatre, heavy metal, disco, EDM, techno, pop, theme songs, and country. She has performed at The Duplex, Peoples Improv Theater, Soho Playhouse, Magnet Theater, DROM, The Black Cat LES, and The Tank. Roxie is a classically-trained opera singer and has performed many roles in numerous musicals and operas. She co-wrote, produced, and starred in the original musical, 'Exodus: The Apocrypha', the journey of biblical mime magicians Flappy and Chappy and their musical exodus from Ancient Egypt. Her current project is writing an album for her inclusive boyband, S2L (Simply Too Lit), and shooting a music video."
 - name: Sarah Nguyen
+  slug: sarah
   headshot: images/sarah.jpg
   role: performer
   twitter: snewyuen
+  bio: "Sarah Nguyen is a librarian-archivist in training and a movement artist. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Her movement practice is inspired by information and technologies interactions with humans. As an advocate for open, accessible, and secure technologies she fulfills these values through a few gigs during her studies as a Master of Library and Information Science candidate at the University of Washington: Project Coordinator of Preserve This Podcast, Assistant Research Scientist for New York University Libraries, and archivist for Dance/USA. Offline and out of the studio, she can be found riding a Cannondale mtb."
 - name: Stuart Sierra
+  slug: stuart
   headshot: images/stuart.jpg
   role: performer
   twitter: stuartsierra
   bio: Stuart Sierra could never decide whether to be a performer or a programmer. After earning a degree in theatre from NYU's Tisch School of the Arts, he spent approximately five minutes as a professional actor before fleeing to a graduate degree in computer science. While working as a developer and consultant, he found his way back to the stage as a conference speaker. He has given talks and workshops all over the world about Clojure and functional programming. He recently fulfilled his childhood dreams of public radio by starting a podcast called "No Manifestos."
 - name: Theresa Stewart
+  slug: theresa
   headshot: images/theresa.jpeg
   role: performer
   twitter: atheresastewart
+  bio: Theresa is a Design Lead within the Digital Experience Solutions group at Northern Trust. For the past 10 years she’s been crafting meaningful experience in a range of industries, including consumer electronics, retail, and healthcare. Deeply rooted in interaction design and innovation, Theresa has supported design organization as both a consultant and as an in-house designer by making complex interactions, specialized software, and data heavy workflows more accessible. Theresa received her Bachelor's of Science in Design at the University of Cincinnati’s, Design, Architecture, Art, and Planning (DAAP) program. She also completed additional studies at the Copenhagen Institute of Interaction Design.
 - name: William Horton
+  slug: william
   headshot: images/william.jpeg
   role: performer
   twitter: hortonhearsafoo

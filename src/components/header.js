@@ -15,7 +15,7 @@ const Header = ({menuLinks}) => (
       padding: `1rem 1.5rem`
     }}
   >
-    <h1 style={{
+    <div style={{
       margin: `0`
     }}>
       <Link
@@ -26,7 +26,7 @@ const Header = ({menuLinks}) => (
       >
         <Logotype style={{ maxWidth: `300px` }} />
       </Link>
-    </h1>
+    </div>
     <nav>
       <ul style={{ display: "flex", flex: 1 }}>
         {menuLinks.map(link => (

@@ -1,12 +1,16 @@
 import React from 'react';
+import { Link } from "gatsby"
 import styled from "styled-components"
 import Img from "gatsby-image"
 
-const Performer = ({name, company, headshotURL, fluid, alt, twitter}) => {
-    const twitterURL = `https://twitter.com/${twitter}`;
+const Performer = ({name, company, headshotURL, fluid, alt, slug}) => {
     const PerformerWrapper = styled.section`
         flex-basis: 200px;
         padding: 2%;
+    `;
+
+    const PerformerLink = styled(Link)`
+        color: #362049;
     `;
 
     const PerformerHeadshot = styled.img`
@@ -33,11 +37,12 @@ const Performer = ({name, company, headshotURL, fluid, alt, twitter}) => {
 
     return (
         <PerformerWrapper>
-            {headshotURL && <PerformerHeadshot src={headshotURL} alt={alt || name} />}
-            {fluid && <PerformerImg fluid={fluid} />}
-            <PerformerName>{name}</PerformerName>
-            { company && <PerformerInfoWrapper>{company}</PerformerInfoWrapper> }
-            { twitter && <PerformerInfoWrapper><a href={twitterURL}>@{twitter}</a></PerformerInfoWrapper>}
+            <PerformerLink to={`/${slug}`}>
+                {headshotURL && <PerformerHeadshot src={headshotURL} alt={alt || name} />}
+                {fluid && <PerformerImg fluid={fluid} />}
+                <PerformerName>{name}</PerformerName>
+                { company && <PerformerInfoWrapper>{company}</PerformerInfoWrapper> }
+            </PerformerLink>
         </PerformerWrapper>
     );
 };

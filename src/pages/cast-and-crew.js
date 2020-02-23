@@ -11,8 +11,8 @@ export const data = graphql`
     allPerformersYaml {
       edges {
         node {
-          company
           name
+          slug
           twitter
           headshot {
             childImageSharp {
@@ -37,7 +37,7 @@ const Cast = ({data}) => {
           return <Performer 
             name={performer.node.name}
             fluid={performer.node.headshot.childImageSharp.fluid}
-            twitter={performer.node.twitter} />
+            slug={performer.node.slug} />
         })}
         </div>
       </Block>

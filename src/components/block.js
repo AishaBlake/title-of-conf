@@ -8,15 +8,15 @@ const Container = styled.section`
 
 const Block = ({bgColor, title, subtitle, children}) => (
     <Container bgColor={bgColor}>
-        <h2 style={{
+        {title && <h2 style={{
             fontWeight: `400`,
             textTransform: `uppercase`,
-        }}>{title}</h2>
-        <p style={{
+        }}>{title}</h2>}
+        {subtitle && <p style={{
             fontFamily: `Inter`,
             fontSize: `2rem`,
             fontWeight: `600`
-        }}>{subtitle}</p>
+        }}>{subtitle}</p>}
         {children}
     </Container>
 );
