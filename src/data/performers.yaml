@@ -40,6 +40,7 @@
   bio: By day, Chrissy works as a Delivery Lead at Detroit Labs, managing some pretty cool software projects! When Chrissy isn’t getting her project management on, she’s teaching coding fundamentals to groups around the city, trying to read multiple books simultaneously, scoping out eateries, or just simply binge-watching things from the comfort of her couch. Chrissy also considers herself to be a Senior-level ’Potterhead’ and a Motown enthusiast so feel free to talk to her about anything Harry Potter or Stevie Wonder related!
 - name: Christie Chirinos
   slug: christie
+  company: LiquidWeb.com
   headshot: images/christie.jpg
   role: performer
   twitter: xtiechirinos
@@ -52,12 +53,14 @@
   bio: Coraline Ada Ehmke is an international speaker, writer, and developer with over 25 years of experience in software engineering. She was recognized for her work on diversity in open source with a Ruby Hero award in 2016. Coraline is the creator of the Contributor Covenant, the most popular open source code of conduct in the world with over 40,000 adoptions. She is a founding panelist on the Greater than Code podcast. Coraline is co-authoring a book on practicing empathy in software development, and writes and records music in her home studio.
 - name: David Neal
   slug: david
+  company: Okta
   headshot: images/david.png
   role: performer
   twitter: reverentgeek
   bio: David is a family man, musician, illustrator, software developer, and Microsoft MVP living in North Georgia. He is currently a Senior Developer Advocate for Okta, runs on a high-octane mixture of caffeine and JavaScript, and is made entirely of bacon.
 - name: Diana Rodriguez
   slug: diana
+  company: Vonage
   headshot: images/diana.jpg
   role: performer
   twitter: cotufa82
@@ -81,7 +84,7 @@
   bio: Ju was born in China, moved to Italy as a kid, grew up eating a lot of pasta, and started messing around with computers. He now lives in London and works for NoRedInk. He loves to solve interesting problems and build amazing products. When he’s not doing that, he’s probably rock climbing.
 - name: Kofi Oduro
   slug: kofi
-  headshot: images/toc-symbol-dark.png
+  headshot: images/kofi.jpg
   role: performer
   twitter: illestprecha
   bio: Kofi's artistic practice is an observation of the world around us, that he then puts into artworks for others to relate to or disagree with. Through Videography, Poetry and Creative Coding, he tries to highlight the realms of the human performance and the human mind in different scenarios. These situations can be described as social, internal, or even biological, which we face in our everyday lives. Adding music and visuals often helps to perceive one's own feelings, and to highlight the different subtleties that make us human. With a dose of technology, there is an endless range of progress in the human creative endeavours.
