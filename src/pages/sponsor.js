@@ -14,9 +14,11 @@ const Sponsor = () => (
       <ul>
         <li>Sara Chipps</li>
         <li>David Lu</li>
-        <li>Jay Martindell</li>
+        <li>Jaye Martindell</li>
+        <li>Jeremy Lindblom</li>
         <li>István "Flaki" Szmozsánszky</li>
         <li>Leslie Vernon-Blake</li>
+        <li>Thomas Ballinger</li>
       </ul>
     </TextBlock>
   </Layout>
