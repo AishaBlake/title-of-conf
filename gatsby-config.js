@@ -3,6 +3,7 @@ module.exports = {
     title: `<title of conf>`,
     description: `A new, musical theater-inspired tech conference`,
     author: `Aisha Blake`,
+    siteUrl: `https://www.titleofconf.org`,
     menuLinks: [
       {
         name: 'About',
