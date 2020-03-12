@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import TextBlock from "../components/textBlock"
-import CTALink from "../components/callToActon"
+// import CTALink from "../components/callToActon"
 import Block from "../components/block"
 
 const Sponsor = () => (
@@ -30,12 +30,12 @@ const Sponsor = () => (
         flexDirection: `column`,
         alignItems: `center`
       }}>
-        <CTALink url="https://forms.gle/rKVrKdUFhFBdtrpz9">
+        {/* <CTALink url="https://forms.gle/rKVrKdUFhFBdtrpz9">
           Apply as a Writer
         </CTALink>
         <CTALink url="https://forms.gle/vV6egkJrsdTSxaps6">
           Apply as a Performer
-        </CTALink>
+        </CTALink> */}
       </div>
     </section>
     <Block bgColor="#E7ECEF" title="What we're looking for">
@@ -75,24 +75,17 @@ const Sponsor = () => (
         <li>Above all, we're looking for content that is both relevant to delivery teams (devs, QA, project managers) and entertaining.</li>
         <li>We hope to include a wide variety of musical and theatrical styles, so please apply your own unique spin to your submission!</li>
       </ul>
-      <p><strong>The CFP closes January 25, 2020.</strong></p>
-      <p>Our goal is to announce the lineup by <strong>February 10, 2020</strong>. Every applicant will be notified of the status of their application in advance of that announcement.</p>
 
     </Block>
     <Block bgColor="#E7ECEF" title="Benefits">
       <ul>
         <li>&lt;title of conf&gt; ticket (of course)</li>
-        <li>Invitation to Cast Dinner on Wednesday, May 6th, 2020</li>
+        <li>Invitation to Cast Dinner on Wednesday, May 5th, 2021</li>
         <li>20% discount on purchase of one <a href="https://selfconference.org/">self.conference</a> ticket</li>
       </ul>
     </Block>
     <Block title="Submission support">
       <p>We will host office hours via Discord. You can use this time to workshop your proposal and get clarification on anything in the CFP. During these scheduled sessions, we're happy to provide feedback on individual applications. Please check back here as we will add to the list of office hour sessions based on demand and organizers' availability.</p>
-      <ul>
-        <li>Saturday, December 7 @ 2pm Eastern</li>
-        <li>Saturday, December 14 @ 2pm Eastern</li>
-        <li>Saturday, January 25 @ 3pm Eastern</li>
-      </ul>
       <p>To gain access to these office hours and the rest of the &lt;title of conf&gt; community, you'll need to <a href="https://discord.gg/832rT7q">join the Discord server</a>. We are also available via email at <a href="mailto:cfp@titleofconf.org">cfp@titleofconf.org</a> and our <a href="https://twitter.com/TitleOfConf">Twitter DMs are open</a>!</p>
     </Block>
 

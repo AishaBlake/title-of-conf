@@ -46,9 +46,9 @@ const Hero = () => {
         <Container>
             <InfoContainer>
                 <Logotype />
-                <p>May 7, 2020 | Detroit, MI</p>
+                <p>May 6, 2021 | Detroit, MI</p>
                 <a 
-                    href="https://ti.to/title-of-conf/2020"
+                    href="https://ti.to/title-of-conf/2021"
                     style={{
                     border: `3px solid #FEB85A`,
                     color: `#7A335F`,
